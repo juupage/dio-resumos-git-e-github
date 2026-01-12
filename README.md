@@ -20,13 +20,11 @@ Repositório para armaenar resumos sobre Git e GitHub de curso de Versionamento 
 
 
 
-| Aulas | Resumos |
+| Aulas  | Resumos |
 
-|-------|---------|
+|--------|---------|
 
-| Gravando alterações no Repositório Local | \[Resumo]
-
-() | 
+| Gravando alterações no Repositório Local | [Resumos]() |  
 
 
 
